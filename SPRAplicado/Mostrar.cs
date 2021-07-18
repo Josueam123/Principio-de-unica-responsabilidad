@@ -4,6 +4,8 @@ using System.Text;
 
 namespace SPRAplicado
 {
+    //Metodo del mensaje que se mostrará por pantalla
+    //Mostrar toma los atributos de sueldo para "Bono navidad"
     class Mostrar : Sueldo
     {
         public static void mostrar(Datos sueldo_proceso)

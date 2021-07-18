@@ -6,7 +6,7 @@ using System.Text;
 
 namespace SPRAplicado
 {
-
+    //Metodo para mostrar el mensaje por pantalla de la clase "Mostrar"
     class Program 
     {
         static void Main(string[] args)
