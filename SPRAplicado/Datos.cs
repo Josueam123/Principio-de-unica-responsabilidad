@@ -7,7 +7,7 @@ using System.Text;
 namespace SPRAplicado
 {
     
-    class Datos 
+    class Datos : Sueldo
     {
         //Se ingresa 4 variables para posteriormente ser solicitadas por teclado
         public static string nombre;
