@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjemploSinSPR", "SRPEjemplo\EjemploSinSPR.csproj", "{5DA2C8D7-45F7-4A64-9055-DAD3ED2289D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPRAplicado", "SPRAplicado\SPRAplicado.csproj", "{996C8536-3506-4AC7-B452-8ADA4FB73820}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SPRAplicado", "SPRAplicado\SPRAplicado.csproj", "{996C8536-3506-4AC7-B452-8ADA4FB73820}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
